@@ -1,0 +1,17 @@
+{
+  "name": "cilio-booking-service",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Shared booking engine for Cilio's chat, WhatsApp and (future) voice products.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "next": "^14.2.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  }
+}
